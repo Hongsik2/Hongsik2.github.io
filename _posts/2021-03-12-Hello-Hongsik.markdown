@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "고양이는 귀엽습니다!"
 date:   2021-03-12 17:46:56 +0900
 categories: jekyll update
